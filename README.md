@@ -25,11 +25,12 @@ https://github.com/MyNameStawlie/SantaNet/blob/master/SantaNet/ready/Source1.cpp
 * [Оптимизированная сортировка пузырьком ](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/template/Optimized%20bubble%20sort.cpp)
 
 ---
-# Быстрые решения
+# Быстрые решения (Шаблоны)
 
 * [Длина числа / number length](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/template/number%20length.cpp)
 * [Сортировка пузырьком x1](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/template/bubble_sort.cpp)
 * [разбить трехзначное число на разряды](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/template/number_rank.cpp)
+* [Минимальное и максимальное значение в массиве + id](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/template/min_max%2Bid.cpp)
 
 
 ---
