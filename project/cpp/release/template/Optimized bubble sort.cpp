@@ -1,40 +1,35 @@
-// Bubble sort in C++
+// Optimized bubble sort in C++
 
 #include <iostream>
 using namespace std;
 
 void bubbleSort(int array[], int size) {
-
-  // run loops two times: one for walking throught the array
-  // and the other for comparison
   for (int step = 0; step < size - 1; ++step) {
+    // Run loops two times: one for walking throught the array
+    // and the other for comparison
+    int swapped = 0;
     for (int i = 0; i < size - step - 1; ++i) {
-
       // To sort in descending order, change > to < in this line.
       if (array[i] > array[i + 1]) {
 
-        // swap if greater is at the rear position
+        // Swap if greater is at the rear position
         int temp = array[i];
         array[i] = array[i + 1];
         array[i + 1] = temp;
+        swapped = 1;
       }
     }
+
+    // If there is not swapping in the last swap, then the array is already sorted.
+    if (swapped == 0)
+      break;
   }
 }
 
-// function to print the array
+// Function to print an array
 void printArray(int array[], int size) {
   for (int i = 0; i < size; ++i) {
     cout << "  " << array[i];
   }
   cout << "\n";
-}
-
-// driver code
-int main() {
-  int data[] = {-2, 45, 0, 11, -9};
-  int size = sizeof(data) / sizeof(data[0]);
-  bubbleSort(data, size);
-  cout << "Sorted Array in Ascending Order:\n";
-  printArray(data, size);
 }
