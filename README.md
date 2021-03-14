@@ -16,9 +16,6 @@ https://github.com/MyNameStawlie/SantaNet/blob/master/SantaNet/ready/Source1.cpp
 * []()
 * []()
 
-
-
-
 ---
 # Сортировки
 * [Сортировка пузырьком x2](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/template/bubble%20sort.cpp)
@@ -32,6 +29,11 @@ https://github.com/MyNameStawlie/SantaNet/blob/master/SantaNet/ready/Source1.cpp
 * [разбить трехзначное число на разряды](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/template/number_rank.cpp)
 * [Минимальное и максимальное значение в массиве + id](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/template/min_max%2Bid.cpp)
 
+---
+# Письменные задачи
+##Изображения
+*[Задача 1](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2015-03-2021%20004431.jpg)
+*[Задача 2](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2015-03-2021%20004250.jpg)
 
 ---
 # Полезные ссылки
