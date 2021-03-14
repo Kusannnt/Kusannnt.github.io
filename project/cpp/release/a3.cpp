@@ -13,7 +13,7 @@ using namespace std;
 int main() {
 	setlocale(0, "");
 	int num, length, lenpow;
-	num; cin >> num;
+	cin >> num;
 	length = (num == 0 ? 1 : int(log10(num) + 1)); 
 	lenpow = pow(10, length);
 	int term = (num*num) % lenpow;
