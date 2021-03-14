@@ -11,6 +11,8 @@ https://github.com/MyNameStawlie/SantaNet/blob/master/SantaNet/ready/Source1.cpp
 Калькулятор из 10 в 16 систему счисленний](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/release/a2.cpp)
 * [Тусур 101 вариант 11 задача Найти количество элементов массива, которые == N; от 3 до 13;](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/release/m2.cpp)
 * []()
+* []()
+
 
 ---
 # Сортировки
@@ -22,6 +24,7 @@ https://github.com/MyNameStawlie/SantaNet/blob/master/SantaNet/ready/Source1.cpp
 
 * [Длина числа / number length](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/template/number%20length.cpp)
 * [Сортировка пузырьком x1](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/template/bubble_sort.cpp)
+* [разбить трехзначное число на разряды](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/template/number_rank.cpp)
 
 
 ---
