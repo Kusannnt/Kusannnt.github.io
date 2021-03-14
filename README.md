@@ -1,7 +1,8 @@
 ---
 # Решенные задачи
 
-*[Тусур 106 вариант 10 задача Алгоритм который находит все трехзначные числа Армстронга](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/release/a1.cpp)
+* [Дан целочисленный массив из 20 элементов. От -10000 до 10000. Найти пары соседних элементов, сумма которых делится на 2, но не делится на 4](
+https://github.com/MyNameStawlie/SantaNet/blob/master/SantaNet/ready/Source1.cpp)
 
 ---
 # Сортировки
