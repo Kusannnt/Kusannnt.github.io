@@ -1,4 +1,3 @@
-### У Иваныча
 ---
 # Решенные задачи
 
@@ -7,30 +6,30 @@
 
 ---
 # Быстрые решения
-## Сортировка пузырьком
+*Сортировка пузырьком x2
 
-« for (int i = 0; i < n - 1; i++) {
-        for (int j = 0; j < n - i - 1; j++) {
-            if (arr[j] < arr[j + 1]) {
-                temp = arr[j];
-                arr[j] = arr[j + 1];
-                arr[j + 1] = temp;
-            }
-        }
-    } »
 ---
 # Полезные ссылки
 ## ЕГЭ
 *[Яндекс Школа](https://school.yandex.ru/)
 
 *[Решу Егэ](https://ege.sdamgia.ru/)
+
+*[onlyege](http://onlyege.ru/)
+
+*[informatika expert](http://informatikaexpert.ru/)
+
 ## Практика
 *[Яндекс Практикум](https://praktikum.yandex.ru/)
 
 *[CodeForces](https://codeforces.com/)
 
+## Что-то полезное
+*[geeksforgeeks](https://www.geeksforgeeks.org/)
+
+
 ---
-# Картинки, таблички
+# Картинки, табличкиb и т.д
 
 ### Решение задач с условием Фано
 ![ ](https://sun9-1.userapi.com/impf/Sks2xYUE50X79wa4I0tL6o_oolJg2csZiDz2mw/e0BPZ7rzLTE.jpg?size=728x358&quality=96&sign=01e569eb8122e9c34671288913ff9e00&type=album)
