@@ -1,6 +1,7 @@
 ---
 # Решенные задачи
 
+*[Тусур 106 вариант 10 задача Алгоритм который находит все трехзначные числа Армстронга](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/release/a1.cpp)
 
 ---
 # Сортировки
