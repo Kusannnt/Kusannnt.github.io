@@ -13,16 +13,21 @@
 # Полезные ссылки
 ## ЕГЭ
 *[Яндекс Школа](https://school.yandex.ru/)
+
 *[Решу Егэ](https://ege.sdamgia.ru/)
+
 *[onlyege](http://onlyege.ru/)
+
 *[informatika expert](http://informatikaexpert.ru/)
 
 ## Практика
 *[Яндекс Практикум](https://praktikum.yandex.ru/)
+
 *[CodeForces](https://codeforces.com/)
 
 ## Что-то полезное
 *[geeksforgeeks](https://www.geeksforgeeks.org/)
+
 *[programiz](https://www.programiz.com/)
 
 
