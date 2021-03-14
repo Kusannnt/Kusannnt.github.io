@@ -2,6 +2,13 @@
 
 * [Дан целочисленный массив из 20 элементов. От -10000 до 10000. Найти пары соседних элементов, сумма которых делится на 2, но не делится на 4](
 https://github.com/MyNameStawlie/SantaNet/blob/master/SantaNet/ready/Source1.cpp/)
+* [Тусур 106 вариант 10 задача
+Алгоритм который находит все трехзначные числа Армстронга](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/release/a1.cpp)
+* [Тусур 106 вариант 11 задача Найти 3 максимума массива](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/release/m1.cpp)
+* [Тусур 106 вариант 12 задача
+Вывести минимальное произведение последовательности двух элементов](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/release/r1.cpp)
+* 
+
 
 ---
 # Сортировки
