@@ -1,2 +1,2 @@
 # Kusannnt.github.io
-*[vk.com](vk.com/rara2000)
+*[vk.com](https://vk.com/rara2000)
