@@ -9,7 +9,8 @@ https://github.com/MyNameStawlie/SantaNet/blob/master/SantaNet/ready/Source1.cpp
 Вывести минимальное произведение последовательности двух элементов](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/release/r1.cpp)
 * [Тусур 101 вариант 10 задача
 Калькулятор из 10 в 16 систему счисленний](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/release/a2.cpp)
-* [](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/release/r1.cpp)
+* [Тусур 101 вариант 11 задача Найти количество элементов массива, которые == N; от 3 до 13;](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/release/m2.cpp)
+* []()
 
 ---
 # Сортировки
