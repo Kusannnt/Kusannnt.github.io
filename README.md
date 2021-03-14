@@ -15,6 +15,7 @@ https://github.com/MyNameStawlie/SantaNet/blob/master/SantaNet/ready/Source1.cpp
 # Сортировки
 * [Сортировка пузырьком x2](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/template/bubble%20sort.cpp)
 * [Оптимизированная сортировка пузырьком ](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/template/Optimized%20bubble%20sort.cpp)
+
 ---
 # Быстрые решения
 
