@@ -18,5 +18,5 @@ int main() {
 		arr[i] = rand() % 11 + 3;
 		if (n == arr[i]) g++;
 	}
-	cout << g << "\n";
+	cout << g  << "\n";
 }
