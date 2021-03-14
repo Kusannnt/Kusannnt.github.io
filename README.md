@@ -7,8 +7,9 @@ https://github.com/MyNameStawlie/SantaNet/blob/master/SantaNet/ready/Source1.cpp
 * [Тусур 106 вариант 11 задача Найти 3 максимума массива](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/release/m1.cpp)
 * [Тусур 106 вариант 12 задача
 Вывести минимальное произведение последовательности двух элементов](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/release/r1.cpp)
-* 
-
+* [Тусур 101 вариант 10 задача
+Калькулятор из 10 в 16 систему счисленний](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/release/a2.cpp)
+* [](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/release/r1.cpp)
 
 ---
 # Сортировки
