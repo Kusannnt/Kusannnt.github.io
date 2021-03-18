@@ -12,7 +12,7 @@ https://github.com/MyNameStawlie/SantaNet/blob/master/SantaNet/ready/Source1.cpp
 * [Тусур 101 вариант 11 задача Найти количество элементов массива, которые == N; от 3 до 13;](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/release/m2.cpp)
 * [Тусур 101 вариант 12 задача Является ли число автоморфнымСумма цифр десятичной записи, определить сумму которая наиболее чаще встречается в наборе, если чисел >1 вывести максимальную.](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/release/r2.cpp)
 * [Тусур 102 вариант 10 задача Является ли число автоморфным](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/release/a3.cpp)
-* []()
+* [Тусур онлайн 12 задача про школы и баллы](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/release/r_online_1.cpp)
 * []()
 * []()
 
