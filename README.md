@@ -28,7 +28,7 @@ https://github.com/MyNameStawlie/SantaNet/blob/master/SantaNet/ready/Source1.cpp
 * [Сортировка пузырьком x1](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/template/bubble_sort.cpp)
 * [разбить трехзначное число на разряды](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/template/number_rank.cpp)
 * [Минимальное и максимальное значение в массиве + id](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/template/min_max%2Bid.cpp)
-
+* [Разряды числа](https://github.com/Kusannnt/Kusannnt.github.io/blob/main/project/cpp/template/%D1%80%D0%B0%D0%B7%D1%80%D1%8F%D0%B4%20%D1%87%D0%B8%D1%81%D0%BB%D0%B0.cpp)
 ---
 # Письменные задачи
 
